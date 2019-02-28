@@ -1,6 +1,6 @@
 # vue-update
 
-> Vue Auth & more
+> Basic SPA using Vue.js and Firebase
 
 ## Build Setup
 
